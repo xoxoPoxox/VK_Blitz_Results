@@ -1,5 +1,5 @@
 # VK_Blitz_Results
-<h2 align="center">Page with the standings of the mini-app "Blitz!"</h2>
+<h2 align="center">Page with the results of the mini-app "Blitz!"</h2>
 <h3>"Blitz!" is a mini-app for testing with the voice assistant Marusya.</h3>
 <h3>This code, written in Python and HTML, generates a page that displays the results of test participants.</h3>
 <div id="screenshots">
